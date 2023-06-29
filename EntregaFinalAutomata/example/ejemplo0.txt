@@ -1,0 +1,69 @@
+ipinipicipiapar
+pripincipiapal{
+    epescripibipir("bipiepenvepenipidopo apa japavapa");
+
+    lepeeper("probando lectura ingrese un numero", numeroL);
+    epescripibipir("Este es el numero leido"numeroL);
+    
+    epescripibipir("supamapa");
+    epenteperopo sum = 0;
+    sum = 1 + 2;
+    epescripibipir("a mas 2 igual a"sum);
+
+    epescripibipir("repestapa");
+    epenteperopo res = 0;
+    res = 5 - 2;
+    epescripibipir("5 menos 2 igual a"res);
+
+    epescripibipir("mupultipi");
+    epenteperopo mul = 0;
+    mul = 2 * 2;
+    epescripibipir("2 por 2 igual a"mul);
+
+    epescripibipir("dipivipisi");
+    epenteperopo divi = 0;
+    divi = 2 / 2;
+    epescripibipir("2 dividido por 2 igual a"divi);
+
+    flopotapantepe sqrt = 0;
+    sqrt = rapaipiz(4);
+    epescripibipir("raiz de 4 igual a"sqrt);
+
+    flopotapantepe sen = 0;
+    sen = sipin(1);
+    epescripibipir("seno de 1 igual a"sen);
+
+    flopotapantepe cos = 0;
+    cos = copos(1);
+    epescripibipir("coseno de 1 igual a"cos);
+
+    sipi(sqrt==2){
+        epescripibipir("dos es raiz de cuatro");
+        sipi(sen>=1){
+            epescripibipir("seno de uno es mayor a uno");
+        }sipinopo{
+            epescripibipir("seno de uno es menor a uno");
+        }
+    }sipinopo{
+        epescripibipir("es otra raiz");
+    }
+
+    mipiepentrapas(sum<=5){
+        sum=sum+1;
+        epescripibipir("suma"sum);
+
+        res=sum+0;
+        mipiepentrapas(res>=0){
+            res=res-1;
+            epescripibipir("resta"res);
+        }
+    }
+
+    hapaceper{
+        sqrt=rapaipiz(sqrt);
+        epescripibipir("raiz"sqrt);
+    }mipiepentrapas(sqrt>1)
+
+
+}
+fipin
